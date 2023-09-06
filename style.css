@@ -1,0 +1,19 @@
+.bg-container{
+    background-color: white;
+    height:100vh;
+    
+
+
+}
+#counterValue{
+
+    font-size: 75px;
+    font-weight: 900;
+}
+
+.button{
+    margin:8px;
+    padding:5px;
+    border-radius: 7px;
+
+}
